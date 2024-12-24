@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+li {
+  font-size: 1.2rem;
+  margin-right: 1.5rem;
+  font-family: "Inria Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.titleNav {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.search::placeholder {
+  font-family: "Inria Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
